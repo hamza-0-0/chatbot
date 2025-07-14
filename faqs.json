@@ -1,0 +1,2062 @@
+[
+  {
+    "question": "what time does the lunch break start",
+    "answer": "the lunch break starts at 100 pm",
+    "category": "Work Hours"
+  },
+  {
+    "question": "today is friday so when is the office break",
+    "answer": "on fridays the break is from 100 pm to 200 pm",
+    "category": "Work Hours"
+  },
+  {
+    "question": "can we go to the mosque to pray today",
+    "answer": "yes employees are allowed to attend jummah prayer during the break",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "if i came 10 minutes late will i be marked absent",
+    "answer": "no being 10 minutes late is marked as late not absent",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "do we have shorter working hours during ramadan",
+    "answer": "yes working hours are reduced by 1 hour during ramadan",
+    "category": "Religious/Work Hours"
+  },
+  {
+    "question": "can i leave the office early if i finish all my work",
+    "answer": "you need manager approval to leave early even if work is done",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is saturday a working day",
+    "answer": "no saturday is part of the weekend",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "if i work 6 days in a row do i get an extra off",
+    "answer": "not automatically — you can request compensatory leave from hr",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "can we eat lunch at our desks",
+    "answer": "yes but cleanup is required afterward",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "if today is a public holiday do we still have to log hours",
+    "answer": "no logging hours isn’t required on public holidays",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "is it okay to schedule a meeting during prayer time",
+    "answer": "it’s better to avoid scheduling during known prayer breaks",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "do we get paid overtime for staying late",
+    "answer": "yes if its approved in advance",
+    "category": "Compensation Policy"
+  },
+  {
+    "question": "if i miss clocking in how can i fix it",
+    "answer": "you need to report it to hr with a valid reason",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "what happens if i forget to mark my attendance for a day",
+    "answer": "it will be marked as unexcused unless corrected within 24 hours",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "can i request workfromhome due to rain",
+    "answer": "yes if weather conditions are severe and approved by your manager",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "if a public holiday falls on friday do we get sunday off too",
+    "answer": "no only the official public holiday is observed",
+    "category": "Holiday Policy"
+  },
+  {
+    "question": "can i take a personal call during office hours",
+    "answer": "yes but it should be short and not during meetings",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "if i forgot my access card can i still enter the office",
+    "answer": "yes report to security and they’ll issue a temporary pass",
+    "category": "Office Access/Security"
+  },
+  {
+    "question": "what are the official working hours",
+    "answer": "1000 am to 700 pm monday to friday",
+    "category": "Work Hours"
+  },
+  {
+    "question": "if i arrive at 1015 am is that considered late",
+    "answer": "yes any arrival after 1000 am is marked as late",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "can i leave before 700 pm if i finish my work early",
+    "answer": "you need approval from your team lead to leave early",
+    "category": "Work Policy"
+  },
+  {
+    "question": "what is the lunch break timing",
+    "answer": "lunch break is from 130 pm to 230 pm",
+    "category": "Work Hours"
+  },
+  {
+    "question": "do we get a tea break during the day",
+    "answer": "yes there’s a 15minute tea break at 430 pm",
+    "category": "Work Hours"
+  },
+  {
+    "question": "can i take my break earlier if i feel tired",
+    "answer": "only with team lead approval break times are usually fixed",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is the office open on public holidays",
+    "answer": "no the office remains closed on official public holidays",
+    "category": "Holiday Policy"
+  },
+  {
+    "question": "what if a meeting is scheduled during lunch break",
+    "answer": "lunch can be shifted slightly but try to avoid scheduling meetings at that time",
+    "category": "Work Policy"
+  },
+  {
+    "question": "am i allowed to nap during breaks",
+    "answer": "yes short naps are allowed during breaks as long as it doesnt affect work",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "can i leave at 6 pm on friday for jummah prayer",
+    "answer": "no jummah is earlier in the day regular off time is 7 pm",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "do we get extra break time on fridays for prayer",
+    "answer": "yes on fridays lunch break is adjusted to 1230 pm–130 pm for jummah",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "if i skip lunch can i leave early instead",
+    "answer": "no lunch break isnt transferable to early leave",
+    "category": "Work Policy"
+  },
+  {
+    "question": "can i attend a zoom meeting from home if i’m running late",
+    "answer": "only if preapproved by your supervisor",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "how late can i arrive before it counts as halfday",
+    "answer": "arriving after 100 pm is counted as halfday",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "if i stay till 9 pm do i get overtime",
+    "answer": "yes but only if it’s preapproved and logged properly",
+    "category": "Compensation Policy"
+  },
+  {
+    "question": "can i log in remotely at 1000 am and come to office by 1100 am",
+    "answer": "no physical presence is required unless youre on approved remote work",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "do i have to mark attendance manually every day",
+    "answer": "yes using the biometric or webbased system",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "can i skip the tea break and add it to my lunch time",
+    "answer": "no each break is fixed and noncumulative",
+    "category": "Work Policy"
+  },
+  {
+    "question": "what’s the procedure for working overtime",
+    "answer": "request approval log hours in the system and confirm with hr",
+    "category": "Compensation Policy"
+  },
+  {
+    "question": "can i attend prayer during working hours",
+    "answer": "yes short prayer breaks are allowed during appropriate times",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "can i join the office after 1030 am without being marked late",
+    "answer": "no any arrival after 1000 am is considered late",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "is it okay to listen to music while working",
+    "answer": "yes if it doesn’t disturb others and you use headphones",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "what if my manager is absent and i need approval",
+    "answer": "contact the next person in the reporting chain or hr",
+    "category": "Work Policy"
+  },
+  {
+    "question": "can i leave the office for a personal errand during work hours",
+    "answer": "only with prior permission from your supervisor",
+    "category": "Work Policy"
+  },
+  {
+    "question": "what happens if i miss logging my attendance for a full day",
+    "answer": "it will be marked as absent unless corrected by hr",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "do we have any official dress code",
+    "answer": "yes smart casual is expected during weekdays",
+    "category": "Company Policy"
+  },
+  {
+    "question": "if a holiday falls on a tuesday do we get monday off too",
+    "answer": "no only the declared holiday is a day off",
+    "category": "Holiday Policy"
+  },
+  {
+    "question": "can we take backtoback breaks",
+    "answer": "no breaks must be taken at scheduled times unless approved",
+    "category": "Work Policy"
+  },
+  {
+    "question": "how do i report an it issue",
+    "answer": "use the internal helpdesk or email the it support team",
+    "category": "IT Support"
+  },
+  {
+    "question": "are phone calls allowed at the workstation",
+    "answer": "yes but keep them brief and use a low voice or headphones",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "can i eat food at my desk",
+    "answer": "yes but you must keep your area clean and avoid strong odors",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "what is the official policy on remote work",
+    "answer": "remote work is allowed only with prior manager approval",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "if a meeting is scheduled at 7 pm do i still have to attend",
+    "answer": "only if it was announced in advance or is critical",
+    "category": "Work Policy"
+  },
+  {
+    "question": "can interns attend team meetings",
+    "answer": "yes unless specified otherwise by the team lead",
+    "category": "Internship Policy"
+  },
+  {
+    "question": "what happens if i exceed my break time",
+    "answer": "it may be reported and can affect performance records",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "can i stay in the office after 7 pm to finish work",
+    "answer": "yes but inform your manager for security and access reasons",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is it necessary to respond to emails immediately",
+    "answer": "not always but timely replies during working hours are expected",
+    "category": "Work Policy"
+  },
+  {
+    "question": "can i request a flexible start time if i live far",
+    "answer": "you can request it but its subject to management approval",
+    "category": "Work Policy"
+  },
+  {
+    "question": "how do i apply for casual leave",
+    "answer": "use the internal hr portal or fill out the leave form",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "is eating during meetings acceptable",
+    "answer": "no its considered unprofessional unless its an informal session",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "can i bring snacks to share with the team",
+    "answer": "yes as long as its done respectfully and doesnt disrupt work",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "what if i accidentally mark the wrong time in attendance",
+    "answer": "you should report it to hr for correction",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "do we have a designated area for prayers",
+    "answer": "yes theres a quiet prayer room available for use",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "if i feel sick during work hours can i go home",
+    "answer": "yes but inform your team lead or hr first",
+    "category": "Work Policy"
+  },
+  {
+    "question": "can i skip a daily standup meeting",
+    "answer": "only with prior notice or a valid reason",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is video mandatory for virtual meetings",
+    "answer": "yes unless you have a valid reason and inform beforehand",
+    "category": "Work Policy"
+  },
+  {
+    "question": "can i schedule meetings during break hours",
+    "answer": "its discouraged but may be allowed for urgent issues",
+    "category": "Work Policy"
+  },
+  {
+    "question": "how often are performance reviews conducted",
+    "answer": "typically once every 6 months",
+    "category": "HR Policy"
+  },
+  {
+    "question": "are there penalties for not completing assigned tasks on time",
+    "answer": "yes repeated delays can affect your evaluation",
+    "category": "Performance Policy"
+  },
+  {
+    "question": "can i work from a café if i have remote approval",
+    "answer": "yes as long as it doesn’t compromise data security",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "what if my shift ends but the meeting is still ongoing",
+    "answer": "youre expected to stay if the meeting is important",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is gossiping at work considered misconduct",
+    "answer": "yes spreading rumors or gossip is against office ethics",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "can i switch desks without asking",
+    "answer": "no desk changes must be approved by admin",
+    "category": "Office Access/Admin Policy"
+  },
+  {
+    "question": "what should i do if my colleague is disturbing me",
+    "answer": "politely address it or raise the issue with your manager",
+    "category": "Workplace Conduct"
+  },
+  {
+    "question": "do we have monthly teambuilding events",
+    "answer": "yes usually one informal session per month is organized",
+    "category": "HR Policy"
+  },
+  {
+    "question": "can i charge my phone at my workstation",
+    "answer": "yes but avoid overloading shared sockets",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "if i forgot to bring lunch can i leave to buy it",
+    "answer": "yes during your official lunch break",
+    "category": "Work Policy"
+  },
+  {
+    "question": "what is the maximum number of leaves i can take in a month",
+    "answer": "usually up to 2–3 casual leaves depending on hr policy",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "can i bring my pet to the office on fridays",
+    "answer": "no pets are not allowed unless it’s a designated pet day",
+    "category": "Office Policy"
+  },
+  {
+    "question": "is lunch provided by the company",
+    "answer": "no employees are expected to arrange their own lunch",
+    "category": "Office Facilities"
+  },
+  {
+    "question": "can i use my break to go for a quick walk",
+    "answer": "yes short walks during break are encouraged",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is there a fridge in the pantry",
+    "answer": "yes you can store your food there during the day",
+    "category": "Office Facilities"
+  },
+  {
+    "question": "can i wear jeans to work",
+    "answer": "yes jeans are allowed as part of smart casual dress code",
+    "category": "Dress Code Policy"
+  },
+  {
+    "question": "what if someone else takes my seat",
+    "answer": "politely ask them to move or notify admin if its recurring",
+    "category": "Office Access/Admin Policy"
+  },
+  {
+    "question": "can i suggest changes to office policy",
+    "answer": "yes suggestions can be submitted to hr or your manager",
+    "category": "HR Policy"
+  },
+  {
+    "question": "are political discussions allowed in the office",
+    "answer": "its best to avoid political or sensitive topics during work",
+    "category": "Workplace Conduct"
+  },
+  {
+    "question": "can i keep snacks in my drawer",
+    "answer": "yes but ensure they are sealed and not attracting insects",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "what happens if i forget to submit a task on deadline",
+    "answer": "inform your lead immediately and submit it as soon as possible",
+    "category": "Performance Policy"
+  },
+  {
+    "question": "is it okay to laugh loudly at work",
+    "answer": "keep volume moderate be mindful of your surroundings",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "can i heat food in the office microwave",
+    "answer": "yes microwaves are available in the pantry",
+    "category": "Office Facilities"
+  },
+  {
+    "question": "is bringing a fan from home allowed",
+    "answer": "only if approved by admin for medical or heatrelated needs",
+    "category": "Office Policy"
+  },
+  {
+    "question": "can i share memes on the office group chat",
+    "answer": "yes if appropriate and not distracting during work hours",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "are we allowed to decorate our desks",
+    "answer": "yes but keep it neat and within professional limits",
+    "category": "Office Etiquette"
+  },
+  {
+    "question": "if the power goes out do we continue working",
+    "answer": "backup systems will activate wait for admin instructions",
+    "category": "Office Policy"
+  },
+  {
+    "question": "can i come in early and leave early",
+    "answer": "only if you’re on a flexible schedule approved by your lead",
+    "category": "Work Policy"
+  },
+  {
+    "question": "what’s the wifi password",
+    "answer": "it’s shared with employees during onboarding ask admin if needed",
+    "category": "IT Support"
+  },
+  {
+    "question": "is there any official channel for complaints",
+    "answer": "yes report issues to hr or use the anonymous feedback system",
+    "category": "HR Policy"
+  },
+  {
+    "question": "can i log in remotely if i’m stuck in traffic",
+    "answer": "only if remote access is approved beforehand",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "is there a penalty for using phone too much during work",
+    "answer": "excessive personal phone use can lead to warnings",
+    "category": "Workplace Conduct"
+  },
+  {
+    "question": "what if i lose internet during a remote workday",
+    "answer": "notify your manager and try to reconnect as soon as possible",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "can i apply for leave verbally",
+    "answer": "no all leave must be applied through the hr system",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "if i finish work early can i help another team",
+    "answer": "yes with your manager’s approval",
+    "category": "Work Policy"
+  },
+  {
+    "question": "do interns get a lunch break too",
+    "answer": "yes all staff including interns are entitled to breaks",
+    "category": "Internship Policy"
+  },
+  {
+    "question": "what is the max allowed late marks in a month",
+    "answer": "usually 3–4 but check your hr policy",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "can i carry forward unused casual leaves",
+    "answer": "most companies don’t allow casual leave carryover",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "what if my team lead is on leave and i need approval",
+    "answer": "contact the backup manager or hr for urgent decisions",
+    "category": "Work Policy"
+  },
+  {
+    "question": "is it okay to wear slippers to the office",
+    "answer": "no slippers are not considered part of smart casual dress code",
+    "category": "Dress Code Policy"
+  },
+  {
+    "question": "can i eat my lunch outside office premises",
+    "answer": "yes as long as you return within the break time",
+    "category": "Work Policy"
+  },
+  {
+    "question": "are there any rewards for perfect attendance",
+    "answer": "some companies give recognition or bonuses — check with hr",
+    "category": "HR Policy"
+  },
+  {
+    "question": "can i schedule a meeting at 900 am",
+    "answer": "office hours begin at 1000 am so early meetings are discouraged",
+    "category": "Work Hours"
+  },
+  {
+    "question": "can i make personal prints using the office printer",
+    "answer": "no printers are for official use only",
+    "category": "Office Facilities"
+  },
+  {
+    "question": "how do i submit an idea for improving a process",
+    "answer": "email your suggestion to hr or your team lead",
+    "category": "HR Policy"
+  },
+  {
+    "question": "is coffee available in the pantry",
+    "answer": "yes basic tea and coffee supplies are usually available",
+    "category": "Office Facilities"
+  },
+  {
+    "question": "what’s the company policy for official travel",
+    "answer": "check with hr or your manager for travel request and approval process",
+    "category": "Travel Policy"
+  },
+  {
+    "question": "do i need to clock out for prayer breaks",
+    "answer": "no short prayer breaks are allowed without clocking out",
+    "category": "Religious/Work Policy"
+  },
+  {
+    "question": "what happens if i forget to sign out at 700 pm",
+    "answer": "hr will mark your end time manually if informed",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "if i arrive late but also work 2 extra hours will it cancel out the late mark",
+    "answer": "no attendance is based on checkin time overtime doesnt cancel lateness",
+    "category": "Attendance Policy"
+  },
+  {
+    "question": "can i take halfday casual leave if i was already late by 3 hours",
+    "answer": "yes but it must be applied correctly and approved by hr",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "if a public holiday falls during my paid leave is that day deducted",
+    "answer": "no public holidays are not counted in paid leave deductions",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "can i request a workfromhome on a day i also plan to travel",
+    "answer": "yes if your manager approves and productivity won’t be affected",
+    "category": "Remote Work Policy"
+  },
+  {
+    "question": "if i forget to log out and the system shows 10 pm will that be counted as overtime",
+    "answer": "no only approved and tasklogged overtime is valid",
+    "category": "Compensation Policy"
+  },
+  {
+    "question": "i completed my weekly hours in 4 days can i take friday off",
+    "answer": "only if flexible scheduling is part of your role and approved",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "i worked on a public holiday without prior approval — do i get paid extra",
+    "answer": "no overtime must be preapproved to qualify for extra pay",
+    "category": "Holidays & Compensation"
+  },
+  {
+    "question": "my manager is out and the hr portal is down — how do i apply for emergency leave",
+    "answer": "inform both hr and your lead via email or call and apply later when systems restore",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "i’m in training but my team needs urgent help should i leave training",
+    "answer": "no training is mandatory unless released by your trainer",
+    "category": "Training"
+  },
+  {
+    "question": "can i work remotely from another country during my vacation",
+    "answer": "not unless you get special clearance from hr and it for data security",
+    "category": "Remote Work"
+  },
+  {
+    "question": "if my biometric fails but i was present — what’s the correction process",
+    "answer": "report to hr or admin with proof email manager confirmation within 24 hours",
+    "category": "Attendance"
+  },
+  {
+    "question": "can i split one leave day into two halfdays on different dates",
+    "answer": "yes if the hr system allows it and your supervisor approves",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "i want to work 9 am to 6 pm instead of 10–7 is that allowed",
+    "answer": "only under flexible timing policy with prior approval",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "can i apply for sick leave retroactively for 2 days i already missed",
+    "answer": "yes if you submit a valid reason or medical note",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "what if my manager says no to my leave but hr says yes",
+    "answer": "final approval lies with your reporting manager hr facilitates but doesn’t override",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "i completed my task before deadline — can i skip todays working hours",
+    "answer": "no youre still expected to be present during working hours unless granted leave",
+    "category": "Productivity"
+  },
+  {
+    "question": "if i have a client call at 9 pm do i come late the next day",
+    "answer": "only if your manager agrees to adjust your work hours",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "can i attend training during lunch break if i voluntarily opt in",
+    "answer": "yes if it doesnt affect your productivity or violate break entitlements",
+    "category": "Training"
+  },
+  {
+    "question": "what if the attendance portal shows absent but i was on a field visit",
+    "answer": "submit visit proof or assignment note to hr for correction",
+    "category": "Attendance"
+  },
+  {
+    "question": "what day is it today",
+    "answer": "today is thursday update dynamically based on system date",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what time is it right now",
+    "answer": "its currently 230 pm use system clock in live apps",
+    "category": "Time & Date"
+  },
+  {
+    "question": "how many hours are left until 7 pm",
+    "answer": "4 hours and 30 minutes left based on current time",
+    "category": "Time & Date"
+  },
+  {
+    "question": "how many days are in july",
+    "answer": "july has 31 days",
+    "category": "Time & Date"
+  },
+  {
+    "question": "is today a working day",
+    "answer": "yes today is a working day mon–fri logic",
+    "category": "Time & Date"
+  },
+  {
+    "question": "is it going to rain today",
+    "answer": "you’ll need to check a weather app — i cant fetch live data",
+    "category": "Weather"
+  },
+  {
+    "question": "how many weeks are in a year",
+    "answer": "there are 52 weeks in a year",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what’s the date tomorrow",
+    "answer": "if today is july 4th tomorrow will be july 5th",
+    "category": "Time & Date"
+  },
+  {
+    "question": "how many months have 30 days",
+    "answer": "four april june september and november",
+    "category": "Time & Date"
+  },
+  {
+    "question": "is this year a leap year",
+    "answer": "2025 is not a leap year the next one is 2028",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what time does the day start in the office",
+    "answer": "1000 am is the official start time",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "how many minutes are in 3 hours",
+    "answer": "180 minutes",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what’s the last day of the week",
+    "answer": "sunday in most calendars",
+    "category": "Time & Date"
+  },
+  {
+    "question": "can you remind me to drink water every hour",
+    "answer": "i can’t send alerts but it’s a great habit to set on your phone",
+    "category": "Personal Reminder"
+  },
+  {
+    "question": "is today a public holiday in pakistan",
+    "answer": "please check the official government calendar",
+    "category": "Holidays & Compensation"
+  },
+  {
+    "question": "how many working hours are there in a day",
+    "answer": "for our office it’s 9 hours 1000 am to 700 pm",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "what’s the current islamic date",
+    "answer": "please check an updated islamic calendar online",
+    "category": "Time & Date"
+  },
+  {
+    "question": "how many seconds are there in a day",
+    "answer": "86400 seconds",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what’s the time difference between pakistan and uae",
+    "answer": "pakistan is 1 hour ahead of uae",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what’s the meaning of am and pm",
+    "answer": "am ante meridiem before noon pm post meridiem after noon",
+    "category": "Time & Date"
+  },
+  {
+    "question": "what’s the time difference between pakistan and ksa",
+    "answer": "pakistan is 4 hour ahead of ksa",
+    "category": "Time & Date"
+  },
+  {
+    "question": "if today is friday and office hours are 10–7 when should i leave for jummah prayer",
+    "answer": "usually around 1230 pm but confirm with your manager based on local prayer time",
+    "category": "Religious Accommodation"
+  },
+  {
+    "question": "i have worked 9 hours every day for 4 days can i leave early on friday",
+    "answer": "only if flexible hours are officially allowed by your manager",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "i logged in late today but worked past 7 pm will i still get a late mark",
+    "answer": "yes unless late arrival was approved overtime doesn’t cancel lateness",
+    "category": "Attendance"
+  },
+  {
+    "question": "if a holiday falls on saturday and i’m off on sunday do i get a long weekend",
+    "answer": "only if saturday is a working day for you otherwise it’s just a normal weekend",
+    "category": "Holidays & Compensation"
+  },
+  {
+    "question": "i took 1 sick day and 2 casual days in the same week is that allowed",
+    "answer": "yes as long as leave types are applied correctly and approved",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "can i request workfromhome if theres political unrest in my city",
+    "answer": "yes if safety is a concern — notify your manager and hr",
+    "category": "Remote Work"
+  },
+  {
+    "question": "my attendance was marked late due to server issues how can i fix it",
+    "answer": "report it with proof email screenshot to hr within the same day",
+    "category": "Attendance"
+  },
+  {
+    "question": "if the office is closed due to rain but i worked from home do i still get paid",
+    "answer": "yes if you worked and your lead confirms productivity",
+    "category": "Remote Work"
+  },
+  {
+    "question": "what if i forget to clock out and the system shows i worked 15 hours",
+    "answer": "it will not count unless corrected by hr — default end time may apply",
+    "category": "Attendance"
+  },
+  {
+    "question": "i’m traveling to another city for 2 days can i work remotely from there",
+    "answer": "yes if you have approval and stable internet access",
+    "category": "Remote Work"
+  },
+  {
+    "question": "can i be marked absent if i was present but didn’t log attendance",
+    "answer": "yes unless you notify hr and correct it with supervisor approval",
+    "category": "Attendance"
+  },
+  {
+    "question": "if the last working day of the month is a holiday when is salary credited",
+    "answer": "it’s usually credited on the previous working day",
+    "category": "Payroll"
+  },
+  {
+    "question": "how do i handle overlapping meetings from two departments",
+    "answer": "prioritize based on your primary team and inform the other lead",
+    "category": "Meetings"
+  },
+  {
+    "question": "what if eid falls on a sunday — do we get a day off on monday",
+    "answer": "it depends on official holiday declaration — not automatic",
+    "category": "Holidays & Compensation"
+  },
+  {
+    "question": "can i mark workfromhome just because i woke up late",
+    "answer": "no remote work must be preapproved for valid reasons",
+    "category": "Remote Work"
+  },
+  {
+    "question": "my project deadline and my exam fall on the same day — what do i do",
+    "answer": "inform your manager in advance to adjust workload or leave",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "if i reach the office at 1000 am sharp every day but leave at 645 pm will it affect my record",
+    "answer": "not usually unless full hours are strictly enforced — check with hr",
+    "category": "Attendance"
+  },
+  {
+    "question": "if someone else uses my id to mark attendance will i get in trouble",
+    "answer": "yes — its a violation of policy and can lead to disciplinary action",
+    "category": "Attendance"
+  },
+  {
+    "question": "do i need to inform hr for just 1 hour of personal leave during work",
+    "answer": "yes even short absences must be communicated",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "i was working from home but internet was down for 2 hours — do i apply leave or partial wfh",
+    "answer": "inform your manager — partial wfh or makeup time may be allowed",
+    "category": "Remote Work"
+  },
+  {
+    "question": "what does speedforce digital specialize in",
+    "answer": "speedforce is a digital agency that builds aipowered solutions web mobile apps custom software and growth strategies speedforceus",
+    "category": "Company Info"
+  },
+  {
+    "question": "which industries does speedforce serve",
+    "answer": "they serve healthcare fintech e‑commerce education and more",
+    "category": "Company Info"
+  },
+  {
+    "question": "who is speedforces chief strategist",
+    "answer": "the chief strategist is nouman niazi featured on their contact page",
+    "category": "Company Info"
+  },
+  {
+    "question": "where is speedforces usa office located",
+    "answer": "their us office is in houston tx williams tower the galleria 41st floor 2800 post oak boulevard",
+    "category": "Company Info"
+  },
+  {
+    "question": "does speedforce offer aispecific services",
+    "answer": "yes they offer ai solutions as one of their main service categories",
+    "category": "Services"
+  },
+  {
+    "question": "can they build loyalty apps",
+    "answer": "absolutely they developed apps like profmcg sanadak hues and ecs focused on loyalty and rewards",
+    "category": "Services"
+  },
+  {
+    "question": "what tech stacks does speedforce use",
+    "answer": "they use reactjs nextjs vuejs flutter laravel nodejs docker aws gcp azure and more",
+    "category": "Services"
+  },
+  {
+    "question": "how large is their development team",
+    "answer": "they boast a pool of 350 specialized experts across web mobile and software development",
+    "category": "Services"
+  },
+  {
+    "question": "does speedforce provide resource augmentation",
+    "answer": "yes — they offer resource augmentation to supplement client teams",
+    "category": "Services"
+  },
+  {
+    "question": "what’s their project discovery approach",
+    "answer": "they emphasize a proper discovery phase to reduce project costs and clarify requirements",
+    "category": "Services"
+  },
+  {
+    "question": "have they worked with major brands",
+    "answer": "yes — clients include dr soliman fakeeh hospital binzagr coro sunquick cinnabon and fiat",
+    "category": "Services"
+  },
+  {
+    "question": "do they develop progressive web apps",
+    "answer": "yes pwa development is a listed expertise in their services",
+    "category": "Services"
+  },
+  {
+    "question": "can they implement api integrations",
+    "answer": "yes — api development and integration is part of their services",
+    "category": "Services"
+  },
+  {
+    "question": "do they support cloud platforms",
+    "answer": "yes — they work with aws cloudformation gcp and microsoft azure",
+    "category": "Services"
+  },
+  {
+    "question": "do they provide mobile app development",
+    "answer": "yes — both native ios android and crossplatform flutter react native apps",
+    "category": "Services"
+  },
+  {
+    "question": "what are speedforces main strengths",
+    "answer": "their strengths include ai integration loyal userapp development scalable tech stacks and discoverydriven project planning",
+    "category": "Company Info"
+  },
+  {
+    "question": "do they have case studies available",
+    "answer": "yes — they showcase success stories like loyalty apps for profmcg sanadak hues and ecs",
+    "category": "Company Info"
+  },
+  {
+    "question": "can they design ecommerce platforms",
+    "answer": "yes — they offer e‑commerce development including shopify magento woocommerce",
+    "category": "Services"
+  },
+  {
+    "question": "how quickly do they respond to inquiries",
+    "answer": "they promise contact within 24 hours after form submission",
+    "category": "Services"
+  },
+  {
+    "question": "what is their model for secrecy on projects",
+    "answer": "they can sign an nda for complete secrecy before starting projects",
+    "category": "Services"
+  },
+  {
+    "question": "does speedforce handle postlaunch maintenance",
+    "answer": "yes — they provide ongoing support scaling and iteration after project delivery",
+    "category": "Services"
+  },
+  {
+    "question": "can speedforce scale a prototype into a full platform",
+    "answer": "yes — they follow a discoverytoscale model starting from mvp to largescale deployment",
+    "category": "Services"
+  },
+  {
+    "question": "what industries benefit from speedforce ai solutions",
+    "answer": "ai tools are applied to fintech retail healthcare and logistics for automation and insight",
+    "category": "Services"
+  },
+  {
+    "question": "does speedforce help nontech founders build products",
+    "answer": "yes — they assist nontechnical founders with ideation wireframing and full development",
+    "category": "Services"
+  },
+  {
+    "question": "can speedforce build an app that works offline",
+    "answer": "yes — they support offlinefirst architecture where needed especially in logistics and retail",
+    "category": "Services"
+  },
+  {
+    "question": "what’s speedforce’s approach to uxui",
+    "answer": "they focus on clean fast intuitive designs with wireframes and user testing phases",
+    "category": "Services"
+  },
+  {
+    "question": "is their development process agile",
+    "answer": "yes — they use agile sprints with regular feedback and iterations",
+    "category": "Services"
+  },
+  {
+    "question": "can speedforce connect my app to thirdparty services like crms or erps",
+    "answer": "yes — they support integrations with platforms like salesforce zoho sap and custom apis",
+    "category": "Services"
+  },
+  {
+    "question": "do they support both ios and android development",
+    "answer": "yes — they develop native and crossplatform apps for ios and android",
+    "category": "Services"
+  },
+  {
+    "question": "what happens in speedforce’s discovery phase",
+    "answer": "they gather user needs business goals feature sets and design flows before development starts",
+    "category": "Services"
+  },
+  {
+    "question": "can speedforce migrate legacy systems to modern platforms",
+    "answer": "yes — they offer system modernization api wrapping and migration from old tech stacks",
+    "category": "Services"
+  },
+  {
+    "question": "do they offer dashboards or analytics features in apps",
+    "answer": "yes — data dashboards and bi integrations are part of many of their enterprise projects",
+    "category": "Services"
+  },
+  {
+    "question": "what cloud services does speedforce support",
+    "answer": "aws azure google cloud and dockerbased deployments are all supported",
+    "category": "Services"
+  },
+  {
+    "question": "do they use ai to improve business processes",
+    "answer": "yes — including chatbot automation document parsing recommendation systems and fraud detection",
+    "category": "Services"
+  },
+  {
+    "question": "can speedforce help with app store deployment",
+    "answer": "yes — they handle publishing to both google play and apple app store",
+    "category": "Services"
+  },
+  {
+    "question": "how does speedforce ensure security in applications",
+    "answer": "they follow best practices like ssl token auth rolebased access and secure api gateways",
+    "category": "Services"
+  },
+  {
+    "question": "does speedforce provide whitelabel development",
+    "answer": "yes — they can deliver unbranded or clientbranded solutions",
+    "category": "Services"
+  },
+  {
+    "question": "can i hire just a developer from speedforce instead of a full team",
+    "answer": "yes — they offer staff augmentation and single resource hiring",
+    "category": "Services"
+  },
+  {
+    "question": "what differentiates speedforce from other digital agencies",
+    "answer": "their focus on ai integration process discovery rapid scaleup and industryspecialized teams",
+    "category": "Company Info"
+  },
+  {
+    "question": "i reached office at 1045 am but stayed till 745 pm — will i be marked late",
+    "answer": "it depends on whether your company tracks only arrival time or total hours check with hr",
+    "category": "Attendance"
+  },
+  {
+    "question": "can i schedule a client meeting at 8 pm",
+    "answer": "only with prior approval — meetings beyond office hours require managerial consent",
+    "category": "Meetings"
+  },
+  {
+    "question": "someone else used my system and logged out my work — what do i do",
+    "answer": "inform your team lead and it immediately they may help retrieve your unsaved work",
+    "category": "IT & Devices"
+  },
+  {
+    "question": "my salary was lower this month — how can i check for deductions",
+    "answer": "log in to the hr portal or ask hr for a salary breakdown and payslip",
+    "category": "Payroll"
+  },
+  {
+    "question": "i’m fasting and need to adjust my break time — is that possible",
+    "answer": "yes most offices accommodate prayer and fastingrelated schedule changes if requested",
+    "category": "Religious Accommodation"
+  },
+  {
+    "question": "i worked during a public holiday — will i get a day off later",
+    "answer": "usually yes in the form of a compensatory off check your company’s holiday policy",
+    "category": "Holidays & Compensation"
+  },
+  {
+    "question": "do we have a grace period for clocking in late",
+    "answer": "most companies offer a 5–10 minute grace period but repeated lateness may be penalized",
+    "category": "Attendance"
+  },
+  {
+    "question": "my manager didn’t approve my leave but i had to go — will it count as unpaid",
+    "answer": "most likely yes if leave wasnt approved beforehand hr may mark it as unpaid or absent",
+    "category": "Leave Policy"
+  },
+  {
+    "question": "i sent a file to the wrong client — what should i do immediately",
+    "answer": "inform your lead recall the email if possible and contact the recipient to delete the file",
+    "category": "Error Handling"
+  },
+  {
+    "question": "am i allowed to work remotely for one day without applying for wfh",
+    "answer": "no — wfh usually requires prior approval to ensure accountability",
+    "category": "Remote Work"
+  },
+  {
+    "question": "if i stay late often can i ask for a change in shift timing",
+    "answer": "you can request it but approval depends on company policy and team availability",
+    "category": "Work Schedule"
+  },
+  {
+    "question": "there’s no tissue in the restroom — who should i tell",
+    "answer": "report it to admin or facilities management — theyll restock it",
+    "category": "Facilities"
+  },
+  {
+    "question": "can i book a meeting room for just one person",
+    "answer": "yes — if youre using it for a call or focused work and its not already booked",
+    "category": "Office Resources"
+  },
+  {
+    "question": "i’m allergic to air fresheners — can i request they be removed near my desk",
+    "answer": "yes — speak to admin or hr especially if it’s affecting your health",
+    "category": "Facilities"
+  },
+  {
+    "question": "someone keeps using my desk when i’m out — how do i handle this",
+    "answer": "speak politely to the person and if it continues raise the issue with your lead",
+    "category": "Workplace Conduct"
+  },
+  {
+    "question": "what’s the best way to report a recurring issue with the office network",
+    "answer": "create an it ticket and mention time logs if it persists escalate to your manager",
+    "category": "IT & Devices"
+  },
+  {
+    "question": "what is speedforce digital",
+    "answer": "speedforce digital is a leading provider of technology and marketing services helping businesses of all sizes succeed in todays digital landscape by offering custom solutions in web development app development and digital marketing",
+    "category": "Company Info"
+  },
+  {
+    "question": "what technology services does speedforce digital offer",
+    "answer": "the company offers a wide range of technology services including web development mobile app development android ios hybrid flutter ecommerce development woocommerce shopify headless ecommerce uiux design pwa development api integration custom software development devops and product development including pos systems",
+    "category": "Services"
+  },
+  {
+    "question": "what marketing services are provided by speedforce digital",
+    "answer": "speedforce digital provides comprehensive digital marketing services such as app store optimization aso content marketing email marketing community management pay per click ppc advertising social media campaigns lead generation conversion rate optimization cro social media moderation and social media listening reporting",
+    "category": "Services"
+  },
+  {
+    "question": "how does speedforce digital help with customer acquisition and retention",
+    "answer": "the agency uses targeted lead generation ppc advertising social media campaigns and conversion optimization to attract new customers and employs strategies like cro and community management to retain existing clients",
+    "category": "Services"
+  },
+  {
+    "question": "what makes speedforce digital stand out",
+    "answer": "speedforce digital tailors its solutions to each clients unique needs combining technical expertise with creative problemsolving and is dedicated to helping businesses grow and achieve measurable results",
+    "category": "Company Info"
+  },
+  {
+    "question": "where is speedforce digital located",
+    "answer": "speedforce digital is based in jeddah saudi arabia",
+    "category": "Company Info"
+  },
+  {
+    "question": "what tech stack does speedforce typically recommend for startups",
+    "answer": "we usually recommend a combination of react nodejs and firebase or aws for scalable mvps",
+    "category": "Services"
+  },
+  {
+    "question": "how does speedforce handle product discovery phases",
+    "answer": "we start with user interviews competitor analysis and stakeholder workshops to shape the product scope",
+    "category": "Services"
+  },
+  {
+    "question": "what happens after i submit a project brief",
+    "answer": "our strategy team reviews it schedules a consultation and proposes a roadmap within 3–5 working days",
+    "category": "Services"
+  },
+  {
+    "question": "can speedforce handle backend and frontend development separately",
+    "answer": "yes — you can choose fullstack or modular support depending on your needs",
+    "category": "Services"
+  },
+  {
+    "question": "do i retain ip rights after the project",
+    "answer": "yes — you own all source code and product ip upon full payment and delivery",
+    "category": "Legal & IP"
+  },
+  {
+    "question": "how does speedforce ensure app scalability",
+    "answer": "we use containerized microservices autoscaling infrastructure and modular architecture",
+    "category": "Development Process"
+  },
+  {
+    "question": "does speedforce offer qa testing as part of its dev cycle",
+    "answer": "yes — we include automated and manual qa in all development phases",
+    "category": "QA & Testing"
+  },
+  {
+    "question": "can i get involved during the design phase",
+    "answer": "absolutely — we encourage client collaboration through figma and realtime feedback sessions",
+    "category": "Client Involvement"
+  },
+  {
+    "question": "what should i prepare before the first consultation with speedforce",
+    "answer": "having a rough idea of your goals timeline and budget helps but we also assist you in refining everything",
+    "category": "Onboarding"
+  },
+  {
+    "question": "can speedforce build ai features like recommendation engines",
+    "answer": "yes — we’ve implemented recommendation systems using collaborative filtering and neural network models",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what kind of design tools does speedforce use",
+    "answer": "we primarily use figma for design collaboration prototyping and handoff",
+    "category": "Tools & Tech Stack"
+  },
+  {
+    "question": "will i get access to source code during development",
+    "answer": "yes — we use gitbased version control usually github or bitbucket and give clients access from day one",
+    "category": "Legal & IP"
+  },
+  {
+    "question": "how does speedforce ensure code quality",
+    "answer": "we apply peer reviews cicd pipelines and static code analysis tools throughout the development process",
+    "category": "QA & Testing"
+  },
+  {
+    "question": "how do you handle changes to project requirements midsprint",
+    "answer": "change requests are discussed in sprint reviews and if needed added to the next sprint with adjusted timelines",
+    "category": "Development Process"
+  },
+  {
+    "question": "does speedforce provide documentation for delivered software",
+    "answer": "yes — we include setup guides user manuals api docs and dev handbooks depending on the project scope",
+    "category": "Delivery & Support"
+  },
+  {
+    "question": "can speedforce work with legacy systems",
+    "answer": "yes — we can integrate or upgrade existing systems with a careful audit to minimize technical debt",
+    "category": "Technical Capability"
+  },
+  {
+    "question": "what happens if the delivery timeline is missed",
+    "answer": "we escalate internally inform clients and adjust delivery plans transparently while maintaining quality",
+    "category": "Project Management"
+  },
+  {
+    "question": "can i get a fixedprice quote for my app idea",
+    "answer": "yes — after our discovery phase we provide a clear scope and cost estimate based on features and timelines",
+    "category": "Pricing"
+  },
+  {
+    "question": "what kind of ai tools does speedforce typically use",
+    "answer": "we work with openai apis tensorflow hugging face models and customtrained pipelines depending on use case",
+    "category": "AI & ML"
+  },
+  {
+    "question": "how does speedforce handle product scaling for high user loads",
+    "answer": "we design for horizontal scaling using docker kubernetes and cloudnative databases like dynamodb or postgresql",
+    "category": "Development Process"
+  },
+  {
+    "question": "can i get daily updates instead of weekly sprints",
+    "answer": "yes — if requested we can do daily standups or async updates through slack or loom",
+    "category": "Project Communication"
+  },
+  {
+    "question": "what kind of performance testing is done before launch",
+    "answer": "we run load tests memory profiling and stress scenarios to simulate realworld usage before deployment",
+    "category": "QA & Testing"
+  },
+  {
+    "question": "do i need to pay upfront for the whole project",
+    "answer": "typically we follow a milestonebased payment structure — you pay as work is delivered",
+    "category": "Pricing"
+  },
+  {
+    "question": "is it possible to launch a product in under 4 weeks",
+    "answer": "yes — for mvps with limited scope rapid development cycles can deliver a product within 3–4 weeks",
+    "category": "Delivery & Timelines"
+  },
+  {
+    "question": "does speedforce help with branding and marketing too",
+    "answer": "while our focus is development we can refer partner agencies or work alongside your marketing team",
+    "category": "Additional Services"
+  },
+  {
+    "question": "how does speedforce handle security and data protection",
+    "answer": "we follow owasp guidelines encrypt sensitive data and comply with gdprccpa where needed",
+    "category": "Security & Compliance"
+  },
+  {
+    "question": "what communication tools are used during projects",
+    "answer": "we typically use slack notion jira and zoom but we adapt to the clients preferred stack",
+    "category": "Project Communication"
+  },
+  {
+    "question": "can i request a prototype before committing to full development",
+    "answer": "yes — we offer designfirst engagements where you get a working prototype before starting dev",
+    "category": "Design & Planning"
+  },
+  {
+    "question": "what’s the difference between speedforce’s dedicated team model and fullproject delivery",
+    "answer": "the dedicated model offers longterm engineers as part of your team while fullproject delivery includes planning design dev and qa from our side",
+    "category": "Engagement Models"
+  },
+  {
+    "question": "can speedforce integrate machine learning into existing enterprise software",
+    "answer": "yes — we can add ml capabilities like forecasting or document classification into your current system architecture",
+    "category": "AI & ML"
+  },
+  {
+    "question": "how does onboarding with speedforce work",
+    "answer": "it starts with an alignment meeting followed by environment setup knowledge transfer and sprint planning within the first week",
+    "category": "Onboarding"
+  },
+  {
+    "question": "can i hire a developer for just 2 weeks",
+    "answer": "shortterm engagements are possible for bug fixes audits or urgent tasks depending on availability",
+    "category": "Engagement Models"
+  },
+  {
+    "question": "what happens if i’m not happy with the first sprint",
+    "answer": "we do a sprint retrospective revise priorities and iterate quickly — our process is designed for flexibility and transparency",
+    "category": "Project Management"
+  },
+  {
+    "question": "does speedforce help with ai prompt engineering or llm finetuning",
+    "answer": "yes — we can build and finetune gptbased solutions or optimize prompts for tools like openai anthropic or cohere",
+    "category": "AI & ML"
+  },
+  {
+    "question": "is there a contract or nda involved before starting",
+    "answer": "yes — we sign a mutual nda and a master service agreement before any work begins",
+    "category": "Legal & IP"
+  },
+  {
+    "question": "how does speedforce ensure good ux in complex dashboards",
+    "answer": "we apply design systems user testing and accessibility guidelines to make even dense interfaces clean and usable",
+    "category": "Design & UX"
+  },
+  {
+    "question": "can i review developer commits during the project",
+    "answer": "yes — all source code and commit logs are shared in real time via github or bitbucket",
+    "category": "Project Transparency"
+  },
+  {
+    "question": "how is feedback handled during the design phase",
+    "answer": "you can leave comments directly in figma or join design review calls to give structured feedback",
+    "category": "Client Involvement"
+  },
+  {
+    "question": "how do you estimate the cost of a project with unknown scope",
+    "answer": "we start with a ballpark estimate and adjust it after discovery using either hourly fixedprice or milestone models",
+    "category": "Pricing"
+  },
+  {
+    "question": "what performance metrics does speedforce track after launch",
+    "answer": "we monitor uptime load times user flow dropoffs api errors and custom kpis based on product goals",
+    "category": "QA & Testing"
+  },
+  {
+    "question": "can speedforce handle multilingual apps",
+    "answer": "yes — we’ve built apps in arabic french urdu and spanish with language toggles and rtl support",
+    "category": "Technical Capability"
+  },
+  {
+    "question": "what devops tools does speedforce use",
+    "answer": "we work with docker github actions jenkins and kubernetes for automated cicd and infrastructure scaling",
+    "category": "Tools & Tech Stack"
+  },
+  {
+    "question": "do i need to provide ui wireframes",
+    "answer": "not at all — our design team can create wireframes and highfidelity mockups from scratch based on your brief",
+    "category": "Design & Planning"
+  },
+  {
+    "question": "what does a typical discovery workshop include",
+    "answer": "it includes problem framing persona definition competitor analysis feature prioritization and rough technical scoping",
+    "category": "Onboarding"
+  },
+  {
+    "question": "how does speedforce support accessibility in web apps",
+    "answer": "we follow wcag standards and use tools like lighthouse and axe to ensure screen reader and keyboard compatibility",
+    "category": "Accessibility & UX"
+  },
+  {
+    "question": "can speedforce help with internal tools for team productivity",
+    "answer": "yes — we’ve built task trackers hr dashboards finance tools and internal portals for fastmoving teams",
+    "category": "Internal Tools"
+  },
+  {
+    "question": "how do you manage client data confidentiality",
+    "answer": "we follow best practices in encryption secure access control and use of compliant cloud infrastructure",
+    "category": "Security & Compliance"
+  },
+  {
+    "question": "does speedforce work with government or regulated industries",
+    "answer": "yes — we’ve worked with fintech edtech and healthcare clients requiring compliance with iso hipaa and gdpr standards",
+    "category": "Client Industries"
+  },
+  {
+    "question": "whats the weather like in islamabad today",
+    "answer": "im not connected to live weather right now but you can check google weather or accuweather for an accurate update",
+    "category": "General Knowledge"
+  },
+  {
+    "question": "what time is sunset today",
+    "answer": "that depends on your location in islamabad sunset today is around 715 pm",
+    "category": "General Knowledge"
+  },
+  {
+    "question": "can i eat biryani for breakfast",
+    "answer": "you absolutely can there are no rules — just good taste",
+    "category": "Lifestyle"
+  },
+  {
+    "question": "is today a public holiday in pakistan",
+    "answer": "today isn’t listed as a public holiday but its best to check your local calendar or government site",
+    "category": "General Knowledge"
+  },
+  {
+    "question": "what’s the best way to stay productive when im tired",
+    "answer": "short breaks hydration and the pomodoro technique can help a quick walk or stretching also refreshes your mind",
+    "category": "Productivity"
+  },
+  {
+    "question": "how do i politely decline a call during work hours",
+    "answer": "you can say “im in the middle of work but will call you back later today”",
+    "category": "Workplace Etiquette"
+  },
+  {
+    "question": "what should i do if i spill tea on my keyboard",
+    "answer": "immediately unplug it flip it upside down and let it dry dont press any keys until it’s fully dry",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "whats a good quick lunch i can make at home",
+    "answer": "a tuna sandwich fried egg wrap or instant noodles with veggies are all fast and filling",
+    "category": "Lifestyle"
+  },
+  {
+    "question": "can i take a nap during lunch break",
+    "answer": "if your office culture allows it and you’re on break — go for a power nap 15–25 mins max",
+    "category": "Workplace Policies"
+  },
+  {
+    "question": "why is everyone suddenly talking about ai",
+    "answer": "because recent advances like gpt image generators and automation tools are becoming useful for everyday work and life",
+    "category": "AI & ML"
+  },
+  {
+    "question": "is it okay to listen to music while working",
+    "answer": "yes — if it helps you focus and doesn’t disturb anyone lofi or instrumental is often best",
+    "category": "Workplace Etiquette"
+  },
+  {
+    "question": "how do i deal with feeling overwhelmed during the day",
+    "answer": "try writing down your tasks tackling one small item first and breathing deeply you’re not alone — it’s normal",
+    "category": "Productivity"
+  },
+  {
+    "question": "what’s a good way to remember daily tasks",
+    "answer": "try using a task manager like todoist or just a sticky note list on your desk or screen",
+    "category": "Productivity"
+  },
+  {
+    "question": "should i bring lunch from home or eat out",
+    "answer": "homecooked is usually healthier and cheaper but eating out can be convenient and social balance both",
+    "category": "Lifestyle"
+  },
+  {
+    "question": "whats a simple exercise i can do at my desk",
+    "answer": "try seated leg raises shoulder rolls or wrist stretches — just 2 minutes can help you feel better",
+    "category": "Health & Wellness"
+  },
+  {
+    "question": "can i watch a show during lunch break",
+    "answer": "yes as long as it doesn’t spill over into work time — lunch is your time enjoy",
+    "category": "Workplace Policies"
+  },
+  {
+    "question": "what do i do if i forget my office wifi password",
+    "answer": "ask your admin or check if it’s saved on another device — most offices also have guest networks",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "is it okay to use my phone during office hours",
+    "answer": "yes but try to keep it minimal and professional — especially during meetings",
+    "category": "Workplace Policies"
+  },
+  {
+    "question": "can coffee cause anxiety",
+    "answer": "for some people yes — high caffeine can trigger jitters or anxiety try cutting back if you feel off",
+    "category": "Health & Wellness"
+  },
+  {
+    "question": "what is the difference between frontend and backend development",
+    "answer": "frontend handles the ui and user interaction html css js while backend manages logic databases and server communication nodejs python etc",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is an api",
+    "answer": "an api application programming interface allows software systems to communicate by exposing data or functions in a structured way",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "how does version control work",
+    "answer": "version control tracks code changes over time usually via tools like git allowing teams to collaborate roll back and manage code branches safely",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is a pull request",
+    "answer": "a pull request is when a developer proposes code changes to be merged into a main branch its usually reviewed before approval",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "whats the purpose of docker",
+    "answer": "docker packages apps and their environments into containers ensuring consistency across development testing and production",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what’s the difference between react and vue",
+    "answer": "both are javascript frameworks for building uis react uses jsx and is more flexible vue is simpler and more opinionated",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is cicd",
+    "answer": "cicd stands for continuous integrationcontinuous deployment it automates code testing and delivery improving speed and reliability in dev cycles",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what does “responsive design” mean",
+    "answer": "it means designing a website or app to work well on all screen sizes — desktops tablets and mobile",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what’s the best way to test a web app",
+    "answer": "use unit tests for components integration tests for logic flows and ui tests for user interactions using tools like jest or cypress",
+    "category": "QA & Testing"
+  },
+  {
+    "question": "what is cloud computing",
+    "answer": "cloud computing allows you to use servers databases and storage over the internet — no need to manage physical hardware",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what’s github used for",
+    "answer": "github is a platform to host review and collaborate on code projects using git",
+    "category": "Technical Tools"
+  },
+  {
+    "question": "can ai write code",
+    "answer": "yes — tools like github copilot and chatgpt can help generate complete or explain code though human review is still essential",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what does “debugging” mean",
+    "answer": "debugging is the process of identifying and fixing issues or bugs in code",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is a framework in programming",
+    "answer": "a framework provides prewritten code tools and best practices to make development faster and more structured",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is a database",
+    "answer": "a database is an organized collection of data usually accessed through queries examples mysql mongodb postgresql",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is saas",
+    "answer": "saas software as a service is software you access via the internet like google docs or slack instead of installing it locally",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "how do websites track user activity",
+    "answer": "through cookies session storage tracking pixels and analytics tools like google analytics or mixpanel",
+    "category": "Web & Analytics"
+  },
+  {
+    "question": "what is a fullstack developer",
+    "answer": "a fullstack developer works on both frontend and backend parts of an application",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "is python better than javascript",
+    "answer": "it depends on the use case — python is great for data and automation javascript dominates web development",
+    "category": "Programming Languages"
+  },
+  {
+    "question": "why does my internet suddenly become slow at work",
+    "answer": "could be due to high network load background downloads browser cache or isp issues restarting your router or checking with it can help",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what’s the difference between http and https",
+    "answer": "https is the secure version of http — it encrypts data using ssltls to protect sensitive information like passwords and payment details",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what does “open source” mean",
+    "answer": "open source means the code is publicly available and can be modified or shared by anyone typically under a license",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "why is my code giving a 404 error",
+    "answer": "a 404 error means the page or endpoint youre requesting doesn’t exist — it might be a broken link or incorrect url",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what’s the use of a virtual machine",
+    "answer": "a virtual machine lets you run a separate operating system within your current one — helpful for testing development or sandboxing",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is latency in networking",
+    "answer": "latency is the time it takes for data to travel from source to destination — lower latency means faster response",
+    "category": "Networking"
+  },
+  {
+    "question": "how does a firewall work",
+    "answer": "a firewall filters incoming and outgoing traffic based on rules protecting your system or network from unauthorized access",
+    "category": "Networking"
+  },
+  {
+    "question": "why is java still used today",
+    "answer": "java is stable scalable and widely supported in enterprise android and legacy systems — it also runs on the jvm across platforms",
+    "category": "Programming Languages"
+  },
+  {
+    "question": "what is ram used for",
+    "answer": "ram random access memory temporarily stores active data and applications so your system can access them quickly",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "how does incognito mode work",
+    "answer": "it prevents your browser from saving history cookies or search data locally — but it doesn’t hide activity from websites or networks",
+    "category": "Web & Privacy"
+  },
+  {
+    "question": "what’s the difference between ai and machine learning",
+    "answer": "ai is the broader concept of machines acting intelligently machine learning is a subset where systems learn from data to improve performance",
+    "category": "AI & ML"
+  },
+  {
+    "question": "why do apps crash randomly",
+    "answer": "common reasons include memory leaks unhandled exceptions device incompatibility or poor internet connection",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what is a server",
+    "answer": "a server is a system or program that provides data or services to other computers over a network",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is an ide",
+    "answer": "an ide integrated development environment is software like vs code or intellij that helps you write debug and manage code efficiently",
+    "category": "Technical Tools"
+  },
+  {
+    "question": "what is a responsive web app",
+    "answer": "it’s an app that adapts its layout and design based on the user’s screen size — desktop mobile or tablet",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "what is dns and how does it work",
+    "answer": "dns domain name system translates domain names like googlecom into ip addresses that computers use to find each other",
+    "category": "Networking"
+  },
+  {
+    "question": "why is my laptop overheating",
+    "answer": "possible causes include blocked vents too many apps running malware or dust buildup inside the fan or heatsink",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what’s the difference between sql and nosql",
+    "answer": "sql is structured tables schema and ideal for relational data nosql handles unstructured or semistructured data more flexibly json keyvalue etc",
+    "category": "Technical Concepts"
+  },
+  {
+    "question": "how does twofactor authentication work",
+    "answer": "it adds a second layer of security usually a onetime code or app notification after entering your password",
+    "category": "Security & Authentication"
+  },
+  {
+    "question": "what is cloud storage",
+    "answer": "cloud storage lets you save data on remote servers eg google drive dropbox so it’s accessible from anywhere",
+    "category": "Cloud & Storage"
+  },
+  {
+    "question": "what is a chatbot",
+    "answer": "a chatbot is a software application that simulates human conversation using rules or ai often used in support sales or hr",
+    "category": "AI & Automation"
+  },
+  {
+    "question": "what is gpt",
+    "answer": "gpt generative pretrained transformer is an ai model developed by openai that can generate humanlike text based on input prompts",
+    "category": "AI & ML"
+  },
+  {
+    "question": "how does chatgpt work",
+    "answer": "it uses a transformerbased language model trained on massive datasets to predict and generate text that feels natural and relevant",
+    "category": "AI & ML"
+  },
+  {
+    "question": "can ai replace developers",
+    "answer": "ai can automate tasks and assist developers but human expertise is still critical for architecture creativity and realworld problem solving",
+    "category": "AI & Work"
+  },
+  {
+    "question": "what’s the difference between supervised and unsupervised learning",
+    "answer": "supervised learning uses labeled data to train models while unsupervised learning finds patterns in unlabeled data",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what is prompt engineering",
+    "answer": "it’s the art of crafting input prompts to get accurate and useful responses from large language models like gpt4",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what is finetuning in ai",
+    "answer": "finetuning means retraining a pretrained ai model on specific data to adapt it to a niche use case or domain",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what is the turing test",
+    "answer": "it’s a test of a machine’s ability to exhibit intelligent behavior indistinguishable from a human",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what are hallucinations in ai",
+    "answer": "when an ai generates text that sounds confident but is factually incorrect or made up it’s called a hallucination",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what are embeddings in ai",
+    "answer": "embeddings are numerical representations of text or images that help ai understand similarity and context",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what is rag in ai",
+    "answer": "rag retrievalaugmented generation combines aigenerated responses with external searchretrieval systems for more accurate answers",
+    "category": "AI & ML"
+  },
+  {
+    "question": "how does ai learn languages",
+    "answer": "it learns by analyzing billions of words learning patterns grammar and meaning through statistical modeling and token prediction",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what are the risks of using ai in production",
+    "answer": "risks include data leakage hallucinations bias overreliance and lack of explainability — proper testing and monitoring are key",
+    "category": "AI & Risk Management"
+  },
+  {
+    "question": "what is langchain",
+    "answer": "langchain is a framework that helps developers build applications with llms by combining chains agents tools and memory",
+    "category": "AI Tools"
+  },
+  {
+    "question": "can ai write code",
+    "answer": "yes — tools like github copilot and chatgpt can generate code snippets explain bugs and suggest improvements",
+    "category": "AI & Programming"
+  },
+  {
+    "question": "what’s the best way to train an ai chatbot for support",
+    "answer": "start with a clean faq dataset expand it with scenarios and test regularly finetuning or rag can make it more accurate",
+    "category": "AI & Automation"
+  },
+  {
+    "question": "can i use ai to automate emails",
+    "answer": "yes — ai can draft respond summarize and even personalize emails using predefined rules or live inputs",
+    "category": "AI & Automation"
+  },
+  {
+    "question": "what is a transformer in ai",
+    "answer": "a transformer is a model architecture that uses attention mechanisms to understand context and relationships in data sequences",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what is zeroshot learning",
+    "answer": "it refers to a models ability to handle tasks it hasn’t been explicitly trained on — just from understanding instructions",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what are tokens in language models",
+    "answer": "tokens are chunks of text — often words or parts of words — that models process for example “chatgpt” is one token",
+    "category": "AI & ML"
+  },
+  {
+    "question": "what is openais api used for",
+    "answer": "openais api allows developers to integrate gpt dall·e whisper and other tools into their apps for tasks like text generation code or image creation",
+    "category": "AI Tools"
+  },
+  {
+    "question": "what is latency in ai models",
+    "answer": "it refers to the delay between a user input and the ai’s response — lower latency means faster replies",
+    "category": "AI & Performance"
+  },
+  {
+    "question": "can chatgpt understand code comments",
+    "answer": "yes — it can read and interpret inline code comments to give better context or explain logic",
+    "category": "AI & Programming"
+  },
+  {
+    "question": "why does my zoom keep crashing",
+    "answer": "common reasons include outdated software insufficient ram or driver conflicts — try updating everything and closing background apps",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what’s the difference between ram and rom",
+    "answer": "ram is temporary memory used during tasks rom is permanent memory used for system instructions",
+    "category": "Computer Hardware"
+  },
+  {
+    "question": "how does a cdn improve performance",
+    "answer": "a cdn content delivery network stores content on edge servers to deliver faster loading based on user location",
+    "category": "Web & Performance"
+  },
+  {
+    "question": "what’s the role of a product manager in tech",
+    "answer": "a pm defines product goals gathers requirements coordinates teams and ensures timely delivery with user needs in mind",
+    "category": "Tech Roles"
+  },
+  {
+    "question": "what does ‘scaling horizontally’ mean",
+    "answer": "it means adding more servers to handle increased load instead of upgrading existing machines",
+    "category": "Cloud & Infrastructure"
+  },
+  {
+    "question": "what’s a wireframe",
+    "answer": "a wireframe is a lowfidelity visual of an interface used to plan structure and flow before designing",
+    "category": "Design & UI"
+  },
+  {
+    "question": "how does oauth work",
+    "answer": "oauth lets users grant apps access to their data without sharing passwords — commonly used in social login",
+    "category": "Security & Authentication"
+  },
+  {
+    "question": "can you run windows on a mac",
+    "answer": "yes — using bootcamp or virtualization software like parallels or virtualbox",
+    "category": "Systems & Compatibility"
+  },
+  {
+    "question": "what is a domain name",
+    "answer": "it’s the web address like examplecom that users type to reach a website mapped to an ip address",
+    "category": "Web Basics"
+  },
+  {
+    "question": "what is phishing",
+    "answer": "phishing is a cyberattack where attackers impersonate legitimate sources to steal personal or financial data",
+    "category": "Security & Awareness"
+  },
+  {
+    "question": "what is uptime in web hosting",
+    "answer": "uptime is the percentage of time your website is accessible — 999 uptime means nearconstant availability",
+    "category": "Web & Hosting"
+  },
+  {
+    "question": "what does ‘lowcode’ mean",
+    "answer": "lowcode platforms allow developers to build apps using visual tools and minimal handcoding",
+    "category": "Dev Tools & Platforms"
+  },
+  {
+    "question": "what’s the difference between json and xml",
+    "answer": "both structure data but json is lighter and more humanreadable while xml is more verbose and featurerich",
+    "category": "Data Formats"
+  },
+  {
+    "question": "why is my laptop fan so loud",
+    "answer": "it could be due to overheating too many apps running or dust clogging the vents — cleaning helps",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what is an ssl certificate",
+    "answer": "it encrypts data between your browser and a website ensuring secure communication — visible as https",
+    "category": "Security & Web"
+  },
+  {
+    "question": "can ai generate images too",
+    "answer": "yes — tools like dall·e and midjourney can generate images from text prompts",
+    "category": "AI & Creative Tools"
+  },
+  {
+    "question": "what is a chatbot vs a virtual assistant",
+    "answer": "a chatbot is often rulebased a virtual assistant uses ai to understand broader commands and perform tasks",
+    "category": "AI & Automation"
+  },
+  {
+    "question": "what’s an ip address",
+    "answer": "an ip address is a unique number assigned to a device on a network — like a digital home address",
+    "category": "Networking"
+  },
+  {
+    "question": "what’s the difference between backend and database",
+    "answer": "backend is the logicserverside code the database stores data used by the backend",
+    "category": "Web Development"
+  },
+  {
+    "question": "what’s an sdk",
+    "answer": "an sdk software development kit provides tools and libraries developers use to build apps on a platform",
+    "category": "Dev Tools & Platforms"
+  },
+  {
+    "question": "what does it mean to “push to git”",
+    "answer": "it means sending your local code commits to the remote git repository eg github",
+    "category": "Version Control"
+  },
+  {
+    "question": "why does my code say ‘undefined’",
+    "answer": "that usually means you’re trying to use a variable that hasn’t been assigned a value",
+    "category": "Programming Concepts"
+  },
+  {
+    "question": "how do vpns work",
+    "answer": "vpns route your internet traffic through encrypted servers hiding your ip and enhancing privacy",
+    "category": "Networking & Privacy"
+  },
+  {
+    "question": "what is mobile responsiveness",
+    "answer": "it’s the ability of a website or app to adapt layout and design for mobile screens",
+    "category": "Web Development"
+  },
+  {
+    "question": "what are cookies in browsers",
+    "answer": "cookies store small pieces of info like login or site preferences in your browser",
+    "category": "Web & Privacy"
+  },
+  {
+    "question": "how do i clear cache in chrome",
+    "answer": "go to settings privacy clear browsing data and select “cached images and files”",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "why is my screen flickering",
+    "answer": "it may be caused by display driver issues a faulty cable or a refresh rate mismatch",
+    "category": "Tech Troubleshooting"
+  },
+  {
+    "question": "what’s a terminal",
+    "answer": "the terminal or command line lets you interact with your computer via text commands",
+    "category": "Dev Tools & Platforms"
+  },
+  {
+    "question": "what’s a loop in programming",
+    "answer": "a loop is a block of code that repeats until a certain condition is met",
+    "category": "Programming Concepts"
+  },
+  {
+    "question": "what’s the purpose of a function",
+    "answer": "functions allow you to reuse blocks of code without rewriting them",
+    "category": "Programming Concepts"
+  },
+  {
+    "question": "what’s the difference between let and var in javascript",
+    "answer": "let is blockscoped var is functionscoped and more prone to bugs",
+    "category": "Programming Languages"
+  },
+  {
+    "question": "what’s localstorage used for",
+    "answer": "it stores data in the browser that persists even after the page is refreshed",
+    "category": "Web Development"
+  },
+  {
+    "question": "why use typescript instead of javascript",
+    "answer": "typescript adds static types which can catch errors early and improve editor support",
+    "category": "Programming Languages"
+  },
+  {
+    "question": "what is agile",
+    "answer": "agile is a project management approach emphasizing iterative progress and collaboration",
+    "category": "Project Management"
+  },
+  {
+    "question": "what’s a jira ticket",
+    "answer": "a jira ticket tracks a task or issue within a project — often used in agile workflows",
+    "category": "Project Management"
+  },
+  {
+    "question": "why is my figma file lagging",
+    "answer": "it might be due to too many layers large images or browser memory usage try simplifying components",
+    "category": "Design Tools"
+  },
+  {
+    "question": "what is a merge conflict",
+    "answer": "a merge conflict happens when two people edit the same part of a file in git — manual resolution is needed",
+    "category": "Version Control"
+  },
+  {
+    "question": "what’s the difference between staging and production",
+    "answer": "staging is a prelaunch testing environment production is the live version seen by users",
+    "category": "DevOps & Environments"
+  },
+  {
+    "question": "what’s a webhook",
+    "answer": "a webhook is a way for an app to send realtime data to another system via an http request",
+    "category": "Web Development"
+  },
+  {
+    "question": "how does recaptcha work",
+    "answer": "it detects bots by analyzing behavior clicks movements or asking users to solve simple challenges",
+    "category": "Security & Authentication"
+  },
+  {
+    "question": "what’s a static website",
+    "answer": "a static site shows the same content to all users — no realtime database or backend processing",
+    "category": "Web Development"
+  },
+  {
+    "question": "how do i check my internet speed",
+    "answer": "you can visit websites like speedtestnet or fastcom",
+    "category": "Tech Basics"
+  },
+  {
+    "question": "what is code refactoring",
+    "answer": "refactoring means restructuring existing code to improve readability and efficiency without changing its functionality",
+    "category": "Programming Concepts"
+  },
+  {
+    "question": "what’s the difference between a bug and a feature",
+    "answer": "a bug is an unintended issue a feature is a new or intended functionality",
+    "category": "Software Development"
+  },
+  {
+    "question": "can i run linux on windows",
+    "answer": "yes — using wsl windows subsystem for linux or virtualization tools",
+    "category": "Systems & Compatibility"
+  },
+  {
+    "question": "what is rest api",
+    "answer": "rest apis use standard http methods get post etc to allow communication between systems",
+    "category": "Web Development"
+  },
+  {
+    "question": "why does my wifi disconnect randomly",
+    "answer": "possible reasons include driver issues router problems interference or device sleep settings",
+    "category": "Networking & Troubleshooting"
+  },
+  {
+    "question": "what’s an mvp in product development",
+    "answer": "mvp stands for minimum viable product — a basic version built to test a concept quickly",
+    "category": "Product Development"
+  }
+]
